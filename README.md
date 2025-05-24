@@ -2,8 +2,6 @@
 
 This is a ReactLynx project bootstrapped with `create-rspeedy`.
 
-
-
 ## Getting Started
 
 First, install the dependencies:
